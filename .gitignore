@@ -1,0 +1,6 @@
+outputs/
+.DS_Store
+**/.DS_Store
+data/
+wandb/
+**/__pycache__/**
